@@ -1,0 +1,13 @@
+﻿<Solution>
+  <Project Path="Fungus.csproj" />
+  <Project Path="AstarPathfindingProject.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="FungusExamples.csproj" />
+  <Project Path="FungusEditor.csproj" />
+  <Project Path="AstarPathfindingProjectEditor.csproj" />
+  <Project Path="Fungus.FungusLuaEditor.csproj" />
+  <Project Path="PackageToolsEditor.csproj" />
+  <Project Path="Fungus.FungusLuaJSONCheckerEditor.csproj" />
+  <Project Path="Fungus.UsfxrEditor.csproj" />
+  <Project Path="Fungus.LineEndingsEditor.csproj" />
+</Solution>
